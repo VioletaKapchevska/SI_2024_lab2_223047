@@ -23,7 +23,7 @@
 
 if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0')
 
-Можни услови:
+Можни услови :
 
 F && X && X -> item.getPrice() < =300 , item.getDiscount() = anything, item.getBarcode().charAt(0)=anything
 
